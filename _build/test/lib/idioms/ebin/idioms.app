@@ -4,6 +4,7 @@
               {modules,['Elixir.Idioms','Elixir.Idioms.BreakOuterLoop',
                         'Elixir.Idioms.DeclareAnEnumeration',
                         'Elixir.Idioms.DoWhileLoop',
+                        'Elixir.Idioms.MeasureFunctionCallDuration',
                         'Elixir.Idioms.StopProgram',
                         'Elixir.Idioms.StringToEnum',
                         'Elixir.Idioms.TurnACharacterIntoAString']},
