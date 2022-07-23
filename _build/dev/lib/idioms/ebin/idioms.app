@@ -1,0 +1,10 @@
+{application,idioms,
+             [{applications,[kernel,stdlib,elixir,logger]},
+              {description,"idioms"},
+              {modules,['Elixir.Idioms','Elixir.Idioms.BreakOuterLoop',
+                        'Elixir.Idioms.DeclareAnEnumeration',
+                        'Elixir.Idioms.DoWhileLoop',
+                        'Elixir.Idioms.StopProgram',
+                        'Elixir.Idioms.TurnACharacterIntoAString']},
+              {registered,[]},
+              {vsn,"0.1.0"}]}.
